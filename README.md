@@ -1,18 +1,17 @@
 ![alt text](https://github.com/DarkByt31/bowling-game/blob/master/start.png)
 
 Control
---------
-
-W/S - Camera Zoom in/Zoom out  
-Arrow Keys - Camera movements  
+--------  
 I - Release ball  
 J - Move Ball left  
-L - Move Ball Right  
+L - Move Ball right  
 K - Reset  
-P - Pause the game  
+P - Stop ball  
+W/S - Camera Zoom in/Zoom out  
+Arrow Keys - Camera movements  
 
 Reference
-----------
+----------  
 https://github.com/mkpaszkiewicz/mkBowling  
 https://github.com/shsa5563/Arcade-Games  
 http://www.lighthouse3d.com/tutorials/glut-tutorial/  
